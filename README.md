@@ -1,7 +1,9 @@
 👋 Hi, I'm Dhruv Manchanda!
+
 🚀 B.Tech CSE Student | Tech Enthusiast
 
 I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
+
 
 🔧 Tech Stack & Skills
 ✅ Languages: Python, Java, C++, MySQL
@@ -9,11 +11,13 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 ✅ Tools: MS Office, GitHub, VS Code
 
+
 💡 Interests
 🔹 Full-Stack Development
 🔹 Artificial Intelligence & Machine Learning
 🔹 Cybersecurity 
 🔹 Data Analysis
+
 
 🌱 Currently Learning
 Advanced JavaScript & Frontend Frameworks
@@ -24,8 +28,9 @@ Database Management (SQL, MongoDB)
 
 Machine Learning
 
-📫 Connect with Me
 
+
+📫 Connect with Me
 📌 LinkedIn: https://www.linkedin.com/in/dhruv-manchanda-7894b526b/
 
 
