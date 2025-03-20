@@ -20,13 +20,14 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 
 🌱 Currently Learning
-Advanced JavaScript & Frontend Frameworks
 
-Data Science
+➡️ Advanced JavaScript & Frontend Frameworks
 
-Database Management (SQL, MongoDB)
+➡️ Data Science
 
-Machine Learning
+➡️ Database Management (SQL, MongoDB)
+
+➡️ Machine Learning
 
 
 
