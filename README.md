@@ -15,22 +15,18 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 💡 Interests
 
-🔹 Full-Stack Development
-🔹 Artificial Intelligence & Machine Learning
-🔹 Cybersecurity 
-🔹 Data Analysis
+🔹 Full-Stack Development                                                                                              
+🔹 Artificial Intelligence & Machine Learning                                                                            
+🔹 Cybersecurity                                                                                                              
+🔹 Data Analysis                                                                        
 
 
 🌱 Currently Learning
 
 ➡️ Advanced JavaScript & Frontend Frameworks
-
 ➡️ Data Science
-
 ➡️ Database Management (SQL, MongoDB)
-
 ➡️ Machine Learning
-
 
 
 📫 Connect with Me
