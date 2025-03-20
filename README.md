@@ -6,9 +6,10 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 
 🔧 Tech Stack & Skills
-✅ Languages: Python, Java, C++, MySQL
-✅ Web Development: HTML, CSS, JavaScript
-✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+
+✅ Languages: Python, Java, C++, MySQL         
+✅ Web Development: HTML, CSS, JavaScript          
+✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)              
 ✅ Tools: MS Office, GitHub, VS Code
 
 
