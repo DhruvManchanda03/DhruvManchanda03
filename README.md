@@ -21,7 +21,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 ➡️ Advanced JavaScript & Frontend Frameworks  
 ➡️ Data Science  
-➡️ Database Management 
+➡️ Database Management                                                                                             
 ➡️ Machine Learning  
 
 ## 📫 Connect with Me
