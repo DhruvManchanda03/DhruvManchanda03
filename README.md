@@ -31,7 +31,7 @@ Let’s connect, collaborate, and build amazing projects! 🚀
 <br>
 <br>
 <br>
-
+![snake gif](https://github.com/DhruvManchanda03/DhruvManchanda03/blob/output/snake.svg)
 <br>
 <br>
 <br>
