@@ -31,7 +31,7 @@ Let’s connect, collaborate, and build amazing projects! 🚀
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Aanyaa26/Aanyaa26/output/snake.svg" alt="Snake animation" />
+
 <br>
 <br>
 <br>
