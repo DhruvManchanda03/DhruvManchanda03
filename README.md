@@ -29,3 +29,8 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 📌 [LinkedIn](https://www.linkedin.com/in/dhruv-manchanda-7894b526b/)
 
 Let’s connect, collaborate, and build amazing projects! 🚀
+
+
+### ✍️ Quote For The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
