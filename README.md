@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhruv Manchanda!
 
-🚀 B.Tech CSE Student | Tech Enthusiast
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front+End+Developer🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
+[![](https://visitcount.itsvg.in/api?id=DhruvManchanda03&icon=0&color=0)](https://visitcount.itsvg.in)   
 I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
 
 ## 🔧 Tech Stack & Skills
@@ -27,10 +27,15 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ## 📫 Connect with Me
 
 📌 [LinkedIn](https://www.linkedin.com/in/dhruv-manchanda-7894b526b/)
-
 Let’s connect, collaborate, and build amazing projects! 🚀
-
-
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/Aanyaa26/Aanyaa26/output/snake.svg" alt="Snake animation" />
+<br>
+<br>
+<br>
+<br>
 ### ✍️ Quote For The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
