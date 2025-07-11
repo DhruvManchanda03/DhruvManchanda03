@@ -9,7 +9,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ✅ Languages: Python, Java, C++, MySQL  
 ✅ Web Development: HTML, CSS, JavaScript  
 ✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
-✅ Tools: MS Office, GitHub, VS Code  
+✅ Tools: MS Office, GitHub, VS Code, PowerBI
 
 ## 💡 Interests
 
@@ -19,10 +19,12 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 ## 🌱 Currently Learning
 
-➡️ Advanced JavaScript & Frontend Frameworks  
+➡️ JavaScript & Frontend Frameworks  
 ➡️ Data Science  
 ➡️ Database Management                                                                                             
 ➡️ Machine Learning  
+➡️ DSA in CPP
+
 
 ## 📫 Connect with Me
 
