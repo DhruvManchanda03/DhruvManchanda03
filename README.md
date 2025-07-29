@@ -13,7 +13,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 ## 💡 Interests
 
-🔹 Full-Stack Development  
+  
 🔹 Machine Learning  
 🔹 Data Analysis  
 
