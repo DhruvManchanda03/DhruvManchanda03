@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Dhruv Manchanda!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front+End+Developer🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=DATA+ANALYST+INTERN🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 [![](https://visitcount.itsvg.in/api?id=DhruvManchanda03&icon=0&color=0)](https://visitcount.itsvg.in)   
 I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
 
 ## 🔧 Tech Stack & Skills
 
-✅ Languages: Python, Java, C++, MySQL  
+✅ Languages: Python,C++, MySQL  
 ✅ Web Development: HTML, CSS, JavaScript  
 ✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
 ✅ Tools: MS Office, GitHub, VS Code, PowerBI
@@ -18,12 +18,9 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 🔹 Data Analysis  
 
 ## 🌱 Currently Learning
-
-➡️ JavaScript & Frontend Frameworks  
-➡️ Data Science  
+➡️ Data Analysis  
 ➡️ Database Management                                                                                             
 ➡️ Machine Learning  
-➡️ DSA in CPP
 
 
 ## 📫 Connect with Me
