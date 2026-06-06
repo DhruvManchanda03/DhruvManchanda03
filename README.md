@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhruv Manchanda!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analysis+Intern🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analytics+Intern🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
 [![](https://visitcount.itsvg.in/api?id=DhruvManchanda03&icon=0&color=0)](https://visitcount.itsvg.in)   
 I’m passionate about new technologies, problem-solving, and building innovative projects. 
 
