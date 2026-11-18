@@ -7,7 +7,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ## 🔧 Tech Stack & Skills
 
 ✅ Languages: Python, MySQL   
-✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Data Analysis, Data Engineering 
+✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Data Analysis, Data Engineering                                                  
 ✅ Tools: MS Office, GitHub, Jupyter, PowerBI, Databricks
 
 ## 💡 Interests
