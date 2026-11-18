@@ -14,7 +14,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
   
 🔹 Machine Learning  
-🔹 Data Analysis
+🔹 Data Analysis                                                                                    
 🔹 Data Engineering
 
 ## 🌱 Currently Learning
